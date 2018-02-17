@@ -18,7 +18,7 @@ class App extends Component {
             </div>
             {<Navigation />}
             <p className="App-intro">
-              To get started, edit <code>src/App.js</code> and save to reload.
+              This is a simple demonstration of mutating state in Redux. Keep DevTools console open to see errors.
             </p>
             {this.props.children}
           </div>

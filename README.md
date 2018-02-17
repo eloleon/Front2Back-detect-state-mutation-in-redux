@@ -1,6 +1,6 @@
-Integrating React-Router with Create React App
+Detect state mutation in Redux
 ===================
-This is repository for tutorial posted on my blog, you can read it [here](http://www.front2back.eu/integrating-react-router-with-create-react-app/)
+This is repository for tutorial posted on my blog, you can read it [here](http://www.front2back.eu/detect-state-mutation-in-redux/)
 
 How to run it?
 -------------
