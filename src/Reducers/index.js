@@ -9,7 +9,6 @@ export default (state = initialState, action) => {
         text: action.text
       }
     case 'MUTATE':
-    debugger
       return state.text = action.text
     default:
       return state

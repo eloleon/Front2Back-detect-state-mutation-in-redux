@@ -5,7 +5,6 @@ import * as actions from '../Actions';
 
 class HomePage extends Component {
   render () {
-    console.log('this.props:', this.props)
     return (
       <div>
         <p>Text from state: {this.props.text}</p>
